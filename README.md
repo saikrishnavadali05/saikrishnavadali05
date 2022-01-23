@@ -10,15 +10,15 @@ We both have made the First contribution to our start up on :
 
 ## Tools & Technologies that I have exposure to:
 
-   - Programming Languages - Python, C, C++, Java
-   - IDLE - Anaconda, Jupyter Notebooks, Atom, MS Visual Studio Code
-   - Python Modules - PyTorch, Tensorflow, TF Keras, Pandas, statsmodels, sk-learn, Matplotlib
-   - Regression Analysis - Linear regression, Logistic regression, Polynomial regression, Stepwise regression, Ridge regression, Lasso regression, ElasticNet regression
-   - CUDA, Cloud Computing, Parallel Processing in MPI and OpenMP, High Performance Computing
-   - Deep Learning (DNN/CNN/RNN/LSTM)
-   - Ensemble – Bagging/Boosting(XGboost, Adaboost, GBM, LightGBM, CatBoost)
-   - Multivariate Regression/Classification (SVM/RF/KNN)
-   - Computer Science Fundamentals (Algorithms, Data Structures/SDLC)
+   - **Programming Languages** - Python, C, C++, Java
+   - **IDLE** - Anaconda, Jupyter Notebooks, Atom, MS Visual Studio Code
+   - **Python Modules** - PyTorch, Tensorflow, TF Keras, Pandas, statsmodels, sk-learn, Matplotlib
+   - **Regression Analysis** - Linear regression, Logistic regression, Polynomial regression, Stepwise regression, Ridge regression, Lasso regression, ElasticNet regression
+   - **High Performance Computing** - CUDA, Cloud Computing, Parallel Processing in MPI and OpenMP.
+   - **Deep Learning** - ANNs, CNNs, RNNs.
+   - **Ensemble Learning** – Bagging and Boosting algorithms - XGboost, Adaboost, GBM, LightGBM, CatBoost.
+   - **Multivariate Regression and Classification** - SVM, RF, KNN.
+   - **Computer Science Courses** - Algorithms, Data Structures, SDLC
 
 Know more about me on my [website](https://www.linkedin.com/in/saikrishnavadali05/). 
 
