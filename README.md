@@ -32,7 +32,7 @@ Know more about me on my [website](https://www.linkedin.com/in/saikrishnavadali0
 - 🚀📖🐍 We will launch our python e-book soon [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with many content creators, content writers.
-- 🥅 2022 Goals: Contribute more to Open Source projects.
+- 🥅 2022 Goals: Start our own websites.
 - ⚡ Fun fact: I love singing and playing chess.
 
 ### Connect with me:
