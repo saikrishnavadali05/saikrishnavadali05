@@ -3,6 +3,11 @@
 ## Hello 👋, 
 I'm a passionate Data Scientist with a demonstrated history of working with Various Machine Learning as well as Deep Learning Algorithms for almost 2.8 years in both Industry and Research Domains.
 
+Started my small start-up on Jan 16 2022 with ravi teja 
+We both have made the First contribution to our start up on :
+#### NATIONAL START UP DAY
+
+
 ## Tools & Technologies that I have exposure to:
 
    - Programming Languages - Python, C, C++, Java
