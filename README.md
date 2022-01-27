@@ -29,7 +29,7 @@ Know more about me on my [website](https://www.linkedin.com/in/saikrishnavadali0
 
 ## I'm an Entrepreneur, Developer, and Teacher!!
 
-- 🚀📖🐍 We will launch our python e-book soon [Become A VS Code SuperHero!][course]!
+- 🚀📖🐍 We will launch our python e-book soon [Become A Python SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with many content creators, content writers.
 - 🥅 2022 Goals: Start our own websites.
