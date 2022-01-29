@@ -95,6 +95,8 @@ Know more about me on my [website](https://www.linkedin.com/in/saikrishnavadali0
 
 ➡️ [more blog posts...](https://codestackr.com)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saikrishnavadali05)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 <details>
