@@ -69,6 +69,15 @@ Know more about me on my [website](https://www.linkedin.com/in/saikrishnavadali0
 
 ---
 
+
+<div align="center">
+        
+   ## Visitor Count
+   ![Visitor Count](https://profile-counter.glitch.me/{saikrishnavadali05}/count.svg)
+        
+</div>
+
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
