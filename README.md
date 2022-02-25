@@ -24,7 +24,7 @@ We both have made the First contribution to our start up on :
 
 Know more about me on my [website](https://www.linkedin.com/in/saikrishnavadali05/).
 
-## I have the offers from following companies :
+## I have got the job offers from the following companies during my BTech and post MTech:
 1. Accenture
 2. Apex Group
 3. Amplo Global Inc.
