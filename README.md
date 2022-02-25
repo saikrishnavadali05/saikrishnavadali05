@@ -22,7 +22,15 @@ We both have made the First contribution to our start up on :
    - **Multivariate Regression and Classification** - SVM, RF, KNN.
    - **Computer Science Courses** - Algorithms, Data Structures, SDLC
 
-Know more about me on my [website](https://www.linkedin.com/in/saikrishnavadali05/). 
+Know more about me on my [website](https://www.linkedin.com/in/saikrishnavadali05/).
+
+## I have the offers from following companies :
+1. Accenture
+2. Apex Group
+3. Amplo Global Inc.
+4. Foundation AI
+5. Lokibots
+6. Qualcomm
 
 ### Hi there, I'm Sai - aka [codeSTACKr][website] 👋 
 
