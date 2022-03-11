@@ -144,7 +144,7 @@ Know more about me on my [website](https://www.linkedin.com/in/saikrishnavadali0
 [twitter]: https://www.twitter.com/saikrishnav05
 [youtube]: https://www.youtube.com/saikrishnavadali05
 [instagram]: https://www.instagram.com/saikrishnavadali05/
-[linkedin]: https://www.linkedin.com/saikrishnavadali05
+[linkedin]: https://www.linkedin.com/in/saikrishnavadali05/
 
 
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
