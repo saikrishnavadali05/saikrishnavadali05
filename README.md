@@ -31,6 +31,7 @@ Know more about me on my [website](https://www.linkedin.com/in/saikrishnavadali0
 4. Foundation AI
 5. Lokibots
 6. Qualcomm
+7. Websofttechs
 
 ### Hi there, I'm Sai - aka [codeSTACKr][website] 👋 
 
