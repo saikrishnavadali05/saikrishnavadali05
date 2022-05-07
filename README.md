@@ -4,7 +4,7 @@
 I'm a passionate Data Scientist with a demonstrated history of working with Various Machine Learning as well as Deep Learning Algorithms for 3 years in both Industry and Research Domains.
 
 Started my small tech community on Jan 16 2022 with ravi teja 
-We both have made the First contribution to our start up on :
+We both have made the First contribution to our community on :
 > #### NATIONAL START UP DAY
 
 *My Start-up (Multiple Wishes): https://www.linkedin.com/company/multiplewishes/*
