@@ -1,7 +1,7 @@
 # Sai Krishna Vadali
 
-## Hello 👋, 
-I'm a passionate Data Scientist with a demonstrated history of working with Various Machine Learning as well as Deep Learning Algorithms for 3 years in both Industry and Research Domains.
+## Om Sri Sai Ram 🙏!!! Hello 👋!!!, 
+I'm a passionate Python Developer with a demonstrated history of working with Various Machine Learning as well as Deep Learning Algorithms for more than 3 years in both Industry and Research Domains.
 
 ## Tools & Technologies that I have exposure to:
 
