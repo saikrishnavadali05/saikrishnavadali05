@@ -1,0 +1,31 @@
+from datetime import datetime
+
+def date_diff_seconds(dt2,dt1):
+    timedata=dt2-dt1
+    return timedata.days * 24 * 3600 + timedata.seconds
+
+def dhms_seconds(seconds):
+    minutes, second = divmod(seconds, 60)
+    hours, minutes = divmod(minutes, 60)
+    days, hourse =divmod(hours, 24)
+    return days, hours, minutes, seconds
+
+date2= datetime.strptime("23-11-2022 01:00:00", "%d-%m-%Y %H:%M:%S")
+date1= datetime.now()
+
+print("Current timestamp is: 23-11-2022 ")
+print("\nCountdown for the birthday is: ")
+print("%d days, %d hours, %d minutes, %d seconds" % dhms_seconds(date_diff_seconds(date2, date1)))
+
+
+
+
+#OUTPUT:
+
+=========== RESTART: C:/Users/Lakshmi Ajay/OneDrive/Desktop/Q2 SSS.py ==========
+Current timestamp is: 23-11-2022 
+
+Countdown for the birthday is: 
+121 days, 2911 hours, 17 minutes, 10480652 seconds
+
+	
