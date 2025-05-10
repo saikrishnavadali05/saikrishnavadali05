@@ -25,6 +25,7 @@ Know more about me on my [website](https://www.linkedin.com/in/saikrishnavadali0
 5. Lokibots
 6. Qualcomm
 7. Websofttechs
+8. Cisco
 
 ### Languages and Tools:
 
