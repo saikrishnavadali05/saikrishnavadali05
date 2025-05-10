@@ -17,7 +17,7 @@ I'm a passionate Python Developer with a demonstrated history of working with Va
 
 Know more about me on my [website](https://www.linkedin.com/in/saikrishnavadali05/).
 
-## I have got the job offers from the following companies during my BTech and post MTech:
+## I have got the job offers from the following companies:
 1. Accenture
 2. Apex Group
 3. Amplo Global Inc.
