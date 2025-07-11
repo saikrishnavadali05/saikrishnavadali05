@@ -63,7 +63,6 @@ Know more about me on my [website](https://www.linkedin.com/in/saikrishnavadali0
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saikrishnavadali05)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
-[website]: https://www.linkedin.com/company/multiple-wishes
 [course]: https://github.com/saikrishnavadali05/Python_2022
 [twitter]: https://www.twitter.com/saikrishnav05
 [youtube]: https://www.youtube.com/saikrishnavadali05
