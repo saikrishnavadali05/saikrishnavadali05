@@ -15,7 +15,7 @@ I'm a passionate Python Developer with a demonstrated history of working with Va
    - **Multivariate Regression and Classification** - SVM, RF, KNN.
    - **Computer Science Courses** - Algorithms, Data Structures, SDLC
 
-Know more about me on my [website](https://www.linkedin.com/in/saikrishnavadali05/).
+Know more about me on my [LinkedIn](https://www.linkedin.com/in/saikrishnavadali05/).
 
 ## I have got the job offers from the following companies:
 1. Accenture
