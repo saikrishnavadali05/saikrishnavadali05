@@ -63,13 +63,9 @@ Know more about me on my [LinkedIn](https://www.linkedin.com/in/saikrishnavadali
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saikrishnavadali05)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
-[course]: https://github.com/saikrishnavadali05/Python_2022
-[twitter]: https://www.twitter.com/saikrishnav05
+
 [youtube]: https://www.youtube.com/saikrishnavadali05
-[instagram]: https://www.instagram.com/saikrishnavadali05/
 [linkedin]: https://www.linkedin.com/in/saikrishnavadali05/
-
-
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
