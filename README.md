@@ -14,6 +14,7 @@ I'm a passionate Python Developer with a demonstrated history of working with Va
    - **Ensemble Learning** – Bagging and Boosting algorithms - XGboost, Adaboost, GBM, LightGBM, CatBoost.
    - **Multivariate Regression and Classification** - SVM, RF, KNN.
    - **Computer Science Courses** - Algorithms, Data Structures, SDLC
+   - **Generative and Agentic AI** - LangChain, LangGraph
 
 Know more about me on my [LinkedIn](https://www.linkedin.com/in/saikrishnavadali05/).
 
