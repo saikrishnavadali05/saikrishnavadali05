@@ -6,7 +6,7 @@ I'm a passionate Python Developer with a demonstrated history of working with Va
 ## Tools & Technologies that I have exposure to:
 
    - **Programming Languages** - Python, C, C++, Java
-   - **IDLE** - Anaconda, Jupyter Notebooks, Atom, MS Visual Studio Code
+   - **IDLE** - Anaconda, Jupyter Notebook, MS Visual Studio Code
    - **Python Modules** - PyTorch, Tensorflow, TF Keras, Pandas, statsmodels, sk-learn, Matplotlib
    - **Regression Analysis** - Linear regression, Logistic regression, Polynomial regression, Stepwise regression, Ridge regression, Lasso regression, ElasticNet regression
    - **High Performance Computing** - CUDA, Cloud Computing, Parallel Processing in MPI and OpenMP.
