@@ -45,3 +45,6 @@ Know more about me on my [LinkedIn](https://www.linkedin.com/in/saikrishnavadali
 
 [youtube]: https://www.youtube.com/saikrishnavadali05
 [linkedin]: https://www.linkedin.com/in/saikrishnavadali05/
+
+
+Trainer @ Sri Sathya Sai Seva Organization
