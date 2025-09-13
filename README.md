@@ -3,6 +3,16 @@
 ## Om Sri Sai Ram 🙏!!! Hello 👋!!!, 
 I'm a passionate Python Developer with a demonstrated history of working with Various Machine Learning as well as Deep Learning Algorithms for more than 6 years in both Industry and Research Domains.
 
+## I have got the job offers from the following companies:
+1. Accenture
+2. Apex Group
+3. Amplo Global Inc.
+4. Foundation AI
+5. Lokibots
+6. Qualcomm
+7. Websofttechs
+8. Cisco
+
 ## Tools & Technologies that I have exposure to:
 
    - **Programming Languages** - Python, C, C++, Java
@@ -17,16 +27,6 @@ I'm a passionate Python Developer with a demonstrated history of working with Va
    - **Generative and Agentic AI** - LangChain, LangGraph
 
 Know more about me on my [LinkedIn](https://www.linkedin.com/in/saikrishnavadali05/).
-
-## I have got the job offers from the following companies:
-1. Accenture
-2. Apex Group
-3. Amplo Global Inc.
-4. Foundation AI
-5. Lokibots
-6. Qualcomm
-7. Websofttechs
-8. Cisco
 
 ### Languages and Tools:
 
