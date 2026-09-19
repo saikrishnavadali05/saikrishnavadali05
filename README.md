@@ -4,8 +4,6 @@ Om Sri Sai Ram.
 
 **Senior Lead R&D (Cellular, AI) Engineer at Qualcomm**, Bengaluru. I work on cellular and AI systems — automation, generative AI, and applied deep learning — after joining Qualcomm in 2021 (image-processing / DL automation in Hyderabad, then GenAI and R&D automation, now lead R&D in Bengaluru).
 
-I also teach. I was a main trainer for the SSSIHL Predictive Analytics Faculty Development Programme (April 2026), have run AI-for-actuaries / IFoA material, trained SSSIHL M.Sc. students in Python (2022), and I continue skill-development work with the Sri Sathya Sai Seva Organization.
-
 B.E. CSE, Osmania University (2014–2018) · M.Tech CS (deep learning), SSSIHL (2018–2020). Thesis: 2D/3D cardiac optical-flow estimation with CNNs. US patent related to smart watches (Qualcomm, 2023).
 
 [LinkedIn](https://www.linkedin.com/in/saikrishnavadali05/)
