@@ -33,13 +33,6 @@ The account used to be ~120 small course and lab repos. Those are now **grouped 
 
 Django / SSO work at LokiBots · data-science POCs at Amplo Global (including AmploFly 4.0) · short COVID tracker at Websofttechs. Details are on LinkedIn; the internship test artifact is in [Awards-Appreciations](https://github.com/saikrishnavadali05/Awards-Appreciations).
 
-## Private work (ask if you need access)
-
-- **AIMS360** — product / Brandboom integration (Python + front end)
-- **coursegen** — LLM course generation, plus archived teaching platforms
-- **Prajna-AI** — AI chatbot work
-- **career-os** — interview-prep system
-- **Lovable-Web-Development**, **Daily-Trackers**, **Python-Resource-Collection**, **Data-Science-Collection**
 
 ## Tools I actually use
 
