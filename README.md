@@ -8,10 +8,6 @@ B.E. CSE, Osmania University (2014–2018) · M.Tech CS (deep learning), SSSIHL 
 
 [LinkedIn](https://www.linkedin.com/in/saikrishnavadali05/)
 
-## What this GitHub is
-
-The account used to be ~120 small course and lab repos. Those are now **grouped chapters** (~22 repos). Most current product and Qualcomm-adjacent work is **private**; the public repos below are the ones anyone can open.
-
 ## Teaching
 
 - Trainer, [Sri Sathya Sai Seva Organization](https://github.com/saikrishnavadali05/SSSSO-RR-District-Skill-Development-Training) — district skill-development material (widely reused).
